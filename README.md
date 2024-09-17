@@ -19,7 +19,7 @@
 - **GitHub Username:** [happydev0126](https://github.com/happydev0126)  
 - **📧 Email:** [jonehenry299@gmail.com](mailto:jonehenry299@gmail.com)  
 - **💼 Profession:** Senior Frontend Engineer  
-- **🛠️ Skills:** JavaScript, TypeScript, React, Next.js, Vue.js, Nuxt.js, Angular, HTML, CSS  
+- **🛠️ Skills:** JavaScript, TypeScript, React, Next.js, React, TypeScript, Next.js,tRPC, Prisma, JavaScript, Tailwind CSS, Supabase, SaaS, Responsive Design, Progressive Web App, styled-components, Performance Optimization, Svelte, Version control, Remix, UI/UX Prototyping  
 - **✨ Passion:** Creating responsive and user-friendly web applications  
 - **🤝 Open to:** Collaboration, mentorship, and new opportunities  
 - **🔭 Currently Working On:** [E-commerce Project](https://www.drybarshops.com)
