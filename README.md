@@ -24,6 +24,11 @@
 - **🔭 Currently Working On:** [E-commerce Project](https://www.drybarshops.com)
 
 ---
+<img
+  src="https://github.com/happydev0126/happydev0126/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
+---
 
 ### 🛠️ Languages and Tools
 <p align="left">
