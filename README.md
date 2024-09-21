@@ -1,5 +1,3 @@
-<img align="center" width="100%" alt="Coder GIF" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
-
 <h1 align="center">Hi 👋, I'm Happy Dev</h1>
 <h3 align="center">A Passionate Frontend Engineer</h3>
 
@@ -64,15 +62,10 @@
     <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a>
 </p>
 
-
 ---
 
-### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=happydev0126&show_icons=true&locale=en&layout=compact" alt="happydev0126" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=happydev0126&show_icons=true&locale=en" alt="happydev0126" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=happydev0126&" alt="happydev0126" /></p>
+[![Stats](https://github-readme-stats.vercel.app/api?username=happydev0126&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=happydev0126&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
+[![trophy](https://github-profile-trophy.vercel.app/?username=happydev0126&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=happydev0126&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 ---
 
