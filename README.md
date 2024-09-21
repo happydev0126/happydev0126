@@ -5,12 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=happydev0126&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=happydev0126&theme=radical" alt="Trophies" />
-    </a>
-</p>
-
 ---
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
